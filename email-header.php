@@ -96,7 +96,7 @@ if (!defined('ABSPATH')) {
 														</tr>
 														<tr>
 															<td align="center">
-																<a target="_blank" style="text-decoration: none;color: #425d74;" href="https://3sixtyprint.co.uk/">
+																<a target="_blank" style="text-decoration: none;color: #425d74;" href="https://elektro-ecke.com/">
 																	<img alt="logo" src="http://elektro-ecke.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-23-2026-11_42_13-PM-e1782240430909.png"  style="max-width:180px;" />
 																</a>
 															</td>

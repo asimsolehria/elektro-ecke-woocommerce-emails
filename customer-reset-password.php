@@ -146,7 +146,7 @@ if (!defined('ABSPATH')) {
 														<tr>
 															<td class="em_grey_txt" style="font-family: 'Outfit', sans-serif;font-size:11px;text-align:center;padding-left:0px;padding-right:0px;color:#17224B;line-height:18px;font-weight:400;">
 																<span style="font-weight: 700">View My Dashboard</span>
-																<br>Go to your 3Sixty Print <br>dashboard
+																<br>Go to your Elektro Ecke <br>dashboard
 																<br>
 															</td>
 														</tr>
@@ -159,7 +159,7 @@ if (!defined('ABSPATH')) {
 																<table width="130" border="0" cellspacing="0" cellpadding="0" align="left">
 																	<tr>
 																		<td valign="middle" bgcolor="#54C97A" height="35" style="font-family: 'Outfit', sans-serif;font-size:11px;font-weight: 600;text-align:center;border-radius:4px;color:#ffffff;">
-																			<a href="https://3sixtyprint.co.uk/my-account/" target="_blank" style="text-decoration:none;color:#ffffff;display:block;line-height: 35px">Dashboard
+																			<a href="https://elektro-ecke.com/mein-konto/" target="_blank" style="text-decoration:none;color:#ffffff;display:block;line-height: 35px">Dashboard
 																				&#187;</a>
 																		</td>
 																	</tr>
@@ -188,7 +188,7 @@ if (!defined('ABSPATH')) {
 																<table width="130" border="0" cellspacing="0" cellpadding="0" align="center">
 																	<tr>
 																		<td valign="middle" bgcolor="#54C97A" height="35" style="font-family: 'Outfit', sans-serif;font-size:11px;font-weight: 600;text-align:center;border-radius:4px;color:#ffffff;">
-																			<a href="https://3sixtyprint.co.uk/product-category/special-offers" target="_blank" style="text-decoration:none;color:#ffffff;display:block;line-height: 35px">Special Offers
+																			<a href="https://elektro-ecke.com/shop/" target="_blank" style="text-decoration:none;color:#ffffff;display:block;line-height: 35px">Special Offers
 																				&#187;</a>
 																		</td>
 																	</tr>
@@ -203,8 +203,8 @@ if (!defined('ABSPATH')) {
 													<table border="0" cellspacing="0" cellpadding="0" class="em_wrapper" align="center">
 														<tr>
 															<td class="em_grey_txt" style="font-family: 'Outfit', sans-serif;font-size:11px;text-align:center;padding-left:0px;padding-right:0px;color:#17224B;line-height:18px;font-weight:400;">
-																<span style="font-weight: 700">3Sixty Print</span>
-																<br>Part of the <br> 3Sixty Group
+																<span style="font-weight: 700">Elektro Ecke</span>
+																<br>Elektro Ecke <br> Düsseldorf
 																
 															</td>
 														</tr>
@@ -217,7 +217,7 @@ if (!defined('ABSPATH')) {
 																<table width="130" border="0" cellspacing="0" cellpadding="0" align="center">
 																	<tr>
 																		<td valign="middle" bgcolor="#54C97A" height="35" style="font-family: 'Outfit', sans-serif;font-size:11px;font-weight: 600;text-align:center;border-radius:4px;color:#ffffff;">
-																			<a href="mailto:info@3sixtysigns.co.uk" target="_blank" style="text-decoration:none;color:#ffffff;display:block;line-height: 35px">Contact Us
+																			<a href="https://elektro-ecke.com/kontakt/" target="_blank" style="text-decoration:none;color:#ffffff;display:block;line-height: 35px">Contact Us
 																				&#187;</a>
 																		</td>
 																	</tr>
